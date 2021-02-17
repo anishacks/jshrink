@@ -1,0 +1,10 @@
+{
+    "name": "matomo-org/jshrink",
+    "authors": [
+        {
+            "name": "anishacks",
+            "email": "mail@anishacks.in"
+        }
+    ],
+    "require": {}
+}
