@@ -1,8 +1,6 @@
 {
     "name": "matomo-org/jshrink",
     "description": "anishacks - PoC",
-    "require": {
-    },
     "license": "MIT",
     "minimum-stability": "stable"
 }
