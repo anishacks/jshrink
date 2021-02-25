@@ -1,7 +1,6 @@
 {
     "name": "matomo-org/jshrink",
     "description": "anishacks - PoC",
-    "type": "project",
     "require": {
         "matomo-org/jshrink": "1.3.1"
     },
