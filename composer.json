@@ -3,4 +3,9 @@
     "description": "anishacks - PoC",
     "license": "MIT",
     "minimum-stability": "stable"
+    {
+    "require": {
+        "your/package": "1.0.0"
+    }
+}
 }
