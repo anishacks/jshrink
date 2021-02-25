@@ -1,11 +1,16 @@
 {
     "name": "matomo-org/jshrink",
+    "description": "anishacks - PoC",
+    "license": "MIT",
     "authors": [
         {
             "name": "anishacks",
             "email": "mail@anishacks.in"
         }
     ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+    },
     "require": {}
-    "minimum-stability": "dev"
 }
